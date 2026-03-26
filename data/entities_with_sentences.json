@@ -1,0 +1,1499 @@
+[
+  [
+    {
+      "sentence": "Family history of other specified malignant neoplasm Family history of malignant neoplasm of trachea",
+      "entities": [
+        {
+          "text": "trachea",
+          "type": "Biological_structure",
+          "start": 93,
+          "end": 100
+        }
+      ]
+    },
+    {
+      "sentence": "and lung Streptococcus infection in conditions classified elsewhere and of unspecified site",
+      "entities": [
+        {
+          "text": "lung",
+          "type": "Biological_structure",
+          "start": 4,
+          "end": 8
+        },
+        {
+          "text": "streptococcus infection",
+          "type": "Disease_disorder",
+          "start": 9,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "sentence": "other streptococcus Cerebral edema Unspecified essential hypertension Compression of brain Intracranial abscess Multiple sclerosis Pulmonary collapse Tobacco use disorder Multiple sclerosis Cerebral edema Intracranial abscess Tobacco use disorder Streptococcus infection in conditions classified elsewhere and of unspecified site",
+      "entities": [
+        {
+          "text": "streptococcus",
+          "type": "Disease_disorder",
+          "start": 6,
+          "end": 19
+        },
+        {
+          "text": "cerebral",
+          "type": "Biological_structure",
+          "start": 20,
+          "end": 28
+        },
+        {
+          "text": "edema",
+          "type": "Sign_symptom",
+          "start": 29,
+          "end": 34
+        },
+        {
+          "text": "essential hypertension compression",
+          "type": "Sign_symptom",
+          "start": 47,
+          "end": 81
+        },
+        {
+          "text": "brain intracranial",
+          "type": "Biological_structure",
+          "start": 85,
+          "end": 103
+        },
+        {
+          "text": "abscess",
+          "type": "Sign_symptom",
+          "start": 104,
+          "end": 111
+        },
+        {
+          "text": "multiple sclerosis pulmonary",
+          "type": "Disease_disorder",
+          "start": 112,
+          "end": 140
+        },
+        {
+          "text": "collapse tobacco use",
+          "type": "Disease_disorder",
+          "start": 141,
+          "end": 161
+        },
+        {
+          "text": "disorder multiple sclerosis",
+          "type": "Disease_disorder",
+          "start": 162,
+          "end": 189
+        },
+        {
+          "text": "cerebral",
+          "type": "Biological_structure",
+          "start": 190,
+          "end": 198
+        },
+        {
+          "text": "edema",
+          "type": "Sign_symptom",
+          "start": 199,
+          "end": 204
+        },
+        {
+          "text": "intracranial",
+          "type": "Biological_structure",
+          "start": 205,
+          "end": 217
+        },
+        {
+          "text": "abscess tobacco use",
+          "type": "Disease_disorder",
+          "start": 218,
+          "end": 237
+        },
+        {
+          "text": "disorder streptococcus infection",
+          "type": "Disease_disorder",
+          "start": 238,
+          "end": 270
+        }
+      ]
+    },
+    {
+      "sentence": "streptococcus",
+      "entities": [
+        {
+          "text": "streptococcus",
+          "type": "Sign_symptom",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "sentence": "group B Other specified bacterial infections in conditions classified elsewhere and of unspecified site",
+      "entities": [
+        {
+          "text": "infections",
+          "type": "Disease_disorder",
+          "start": 34,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "sentence": "other anaerobes Unspecified essential hypertension",
+      "entities": [
+        {
+          "text": "anaerobes",
+          "type": "Disease_disorder",
+          "start": 6,
+          "end": 15
+        },
+        {
+          "text": "hypertension",
+          "type": "Disease_disorder",
+          "start": 38,
+          "end": 50
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Asthma",
+      "entities": [
+        {
+          "text": "asthma",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 6
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Myalgia and myositis",
+      "entities": [
+        {
+          "text": "myalgia",
+          "type": "Sign_symptom",
+          "start": 12,
+          "end": 19
+        },
+        {
+          "text": "myositis",
+          "type": "Disease_disorder",
+          "start": 24,
+          "end": 32
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Prolapse of vaginal vault after hysterectomy Constipation",
+      "entities": [
+        {
+          "text": "vaginal vault",
+          "type": "Biological_structure",
+          "start": 24,
+          "end": 37
+        },
+        {
+          "text": "hysterectomy constipation",
+          "type": "Therapeutic_procedure",
+          "start": 44,
+          "end": 69
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Irritable bowel syndrome Other opiates and related narcotics causing adverse effects in therapeutic use Vaginal enterocele",
+      "entities": [
+        {
+          "text": "irritable",
+          "type": "Sign_symptom",
+          "start": 12,
+          "end": 21
+        },
+        {
+          "text": "bowel syndrome",
+          "type": "Disease_disorder",
+          "start": 22,
+          "end": 36
+        },
+        {
+          "text": "other opiates",
+          "type": "Medication",
+          "start": 37,
+          "end": 50
+        },
+        {
+          "text": "narcotics",
+          "type": "Medication",
+          "start": 63,
+          "end": 72
+        },
+        {
+          "text": "adverse effects",
+          "type": "Sign_symptom",
+          "start": 81,
+          "end": 96
+        },
+        {
+          "text": "vaginal",
+          "type": "Sign_symptom",
+          "start": 116,
+          "end": 123
+        }
+      ]
+    },
+    {
+      "sentence": "congenital or acquired Attention deficit disorder with hyperactivity Esophageal reflux Personal history of tobacco use Insomnia",
+      "entities": [
+        {
+          "text": "attention deficit disorder",
+          "type": "Disease_disorder",
+          "start": 23,
+          "end": 49
+        },
+        {
+          "text": "hyperactivity",
+          "type": "Disease_disorder",
+          "start": 55,
+          "end": 68
+        },
+        {
+          "text": "esophageal reflux",
+          "type": "Biological_structure",
+          "start": 69,
+          "end": 86
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Other specified retention of urine Depressive disorder",
+      "entities": [
+        {
+          "text": "urine depressive disorder",
+          "type": "Disease_disorder",
+          "start": 41,
+          "end": 66
+        }
+      ]
+    },
+    {
+      "sentence": "not elsewhere classified Other anaphylactic reaction Personal history of malignant neoplasm of cervix uteri Essential and other specified forms of tremor Anxiety state",
+      "entities": [
+        {
+          "text": "anaphylactic reaction",
+          "type": "Sign_symptom",
+          "start": 31,
+          "end": 52
+        },
+        {
+          "text": "cervix",
+          "type": "Biological_structure",
+          "start": 95,
+          "end": 101
+        },
+        {
+          "text": "tremor anxiety state",
+          "type": "Sign_symptom",
+          "start": 147,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Other lymphedema",
+      "entities": [
+        {
+          "text": "lymphedema",
+          "type": "Disease_disorder",
+          "start": 18,
+          "end": 28
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Chronic or unspecified duodenal ulcer with hemorrhage",
+      "entities": [
+        {
+          "text": "duodenal",
+          "type": "Biological_structure",
+          "start": 23,
+          "end": 31
+        },
+        {
+          "text": "ulcer",
+          "type": "Disease_disorder",
+          "start": 32,
+          "end": 37
+        }
+      ]
+    },
+    {
+      "sentence": "without mention of obstruction Esophagitis",
+      "entities": [
+        {
+          "text": "obstruction esophagitis",
+          "type": "Sign_symptom",
+          "start": 19,
+          "end": 42
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Electrolyte and fluid disorders not elsewhere classified Severe sepsis Hypoxemia Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH] Mixed acid-base balance disorder Intestinal infection due to other organism",
+      "entities": [
+        {
+          "text": "electrolyte",
+          "type": "Disease_disorder",
+          "start": 12,
+          "end": 23
+        },
+        {
+          "text": "fluid disorders",
+          "type": "Disease_disorder",
+          "start": 28,
+          "end": 43
+        },
+        {
+          "text": "sepsis",
+          "type": "Disease_disorder",
+          "start": 76,
+          "end": 82
+        },
+        {
+          "text": "hypoxemia",
+          "type": "Sign_symptom",
+          "start": 83,
+          "end": 92
+        },
+        {
+          "text": "acid base balance",
+          "type": "Disease_disorder",
+          "start": 182,
+          "end": 199
+        },
+        {
+          "text": "disorder intestinal infection",
+          "type": "Disease_disorder",
+          "start": 200,
+          "end": 229
+        }
+      ]
+    },
+    {
+      "sentence": "not elsewhere classified Diaphragmatic hernia without mention of obstruction or gangrene Salicylates causing adverse effects in therapeutic use Urinary tract infection",
+      "entities": [
+        {
+          "text": "diaphragmatic hernia",
+          "type": "Disease_disorder",
+          "start": 25,
+          "end": 45
+        },
+        {
+          "text": "obstruction",
+          "type": "Sign_symptom",
+          "start": 65,
+          "end": 76
+        },
+        {
+          "text": "gangrene salicylates",
+          "type": "Sign_symptom",
+          "start": 80,
+          "end": 100
+        },
+        {
+          "text": "urinary",
+          "type": "Biological_structure",
+          "start": 144,
+          "end": 151
+        },
+        {
+          "text": "tract infection",
+          "type": "Disease_disorder",
+          "start": 152,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "sentence": "site not specified Hyposmolality and/or hyponatremia Other and unspecified Escherichia coli [E",
+      "entities": [
+        {
+          "text": "hyposmolality",
+          "type": "Sign_symptom",
+          "start": 19,
+          "end": 32
+        },
+        {
+          "text": "hyponatremia",
+          "type": "Sign_symptom",
+          "start": 40,
+          "end": 52
+        },
+        {
+          "text": "escherichia coli",
+          "type": "Disease_disorder",
+          "start": 75,
+          "end": 91
+        }
+      ]
+    },
+    {
+      "sentence": "coli] Leukocytosis",
+      "entities": [
+        {
+          "text": "leukocytosis",
+          "type": "Sign_symptom",
+          "start": 6,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Acute respiratory failure Pneumonitis due to inhalation of food or vomitus Unspecified septicemia Chronic or unspecified gastric ulcer with hemorrhage",
+      "entities": [
+        {
+          "text": "respiratory failure pneumonitis",
+          "type": "Disease_disorder",
+          "start": 18,
+          "end": 49
+        },
+        {
+          "text": "inhalation",
+          "type": "Sign_symptom",
+          "start": 57,
+          "end": 67
+        },
+        {
+          "text": "vomitus",
+          "type": "Sign_symptom",
+          "start": 79,
+          "end": 86
+        },
+        {
+          "text": "septicemia",
+          "type": "Sign_symptom",
+          "start": 99,
+          "end": 109
+        },
+        {
+          "text": "gas",
+          "type": "Biological_structure",
+          "start": 133,
+          "end": 136
+        },
+        {
+          "text": "ulcer",
+          "type": "Disease_disorder",
+          "start": 141,
+          "end": 146
+        }
+      ]
+    },
+    {
+      "sentence": "without mention of obstruction Tobacco use disorder",
+      "entities": [
+        {
+          "text": "obstruction tobacco use",
+          "type": "Disease_disorder",
+          "start": 19,
+          "end": 42
+        },
+        {
+          "text": "disorder",
+          "type": "Disease_disorder",
+          "start": 43,
+          "end": 51
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Disruption of external operation (surgical) wound Acute post-thoracotomy pain Surgical operation with anastomosis",
+      "entities": [
+        {
+          "text": "external operation",
+          "type": "Therapeutic_procedure",
+          "start": 14,
+          "end": 32
+        },
+        {
+          "text": "wound",
+          "type": "Therapeutic_procedure",
+          "start": 44,
+          "end": 49
+        },
+        {
+          "text": "post thoracotomy",
+          "type": "Therapeutic_procedure",
+          "start": 56,
+          "end": 72
+        },
+        {
+          "text": "pain",
+          "type": "Sign_symptom",
+          "start": 73,
+          "end": 77
+        },
+        {
+          "text": "surgical operation",
+          "type": "Therapeutic_procedure",
+          "start": 78,
+          "end": 96
+        },
+        {
+          "text": "anastomosis",
+          "type": "Therapeutic_procedure",
+          "start": 102,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "sentence": "or graft",
+      "entities": [
+        {
+          "text": "graft",
+          "type": "Therapeutic_procedure",
+          "start": 3,
+          "end": 8
+        }
+      ]
+    },
+    {
+      "sentence": "with natural or artificial tissues used as implant causing abnormal patient reaction",
+      "entities": [
+        {
+          "text": "implant",
+          "type": "Therapeutic_procedure",
+          "start": 43,
+          "end": 50
+        },
+        {
+          "text": "abnormal patient reaction",
+          "type": "Sign_symptom",
+          "start": 59,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "sentence": "or later complication",
+      "entities": [
+        {
+          "text": "complication",
+          "type": "Sign_symptom",
+          "start": 9,
+          "end": 21
+        }
+      ]
+    },
+    {
+      "sentence": "without mention of misadventure at time of operation Personal history of Methicillin resistant Staphylococcus aureus Other postoperative infection Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site Accidents occurring in residential institution Empyema without mention of fistula Other specified forms of effusion",
+      "entities": [
+        {
+          "text": "staphylococcus aureus",
+          "type": "Disease_disorder",
+          "start": 95,
+          "end": 116
+        },
+        {
+          "text": "infection",
+          "type": "Disease_disorder",
+          "start": 137,
+          "end": 146
+        },
+        {
+          "text": "staphylococcus aureus",
+          "type": "Disease_disorder",
+          "start": 169,
+          "end": 190
+        },
+        {
+          "text": "accidents",
+          "type": "Sign_symptom",
+          "start": 250,
+          "end": 259
+        },
+        {
+          "text": "empyema",
+          "type": "Sign_symptom",
+          "start": 297,
+          "end": 304
+        },
+        {
+          "text": "fistula",
+          "type": "Sign_symptom",
+          "start": 324,
+          "end": 331
+        },
+        {
+          "text": "effusion",
+          "type": "Disease_disorder",
+          "start": 357,
+          "end": 365
+        }
+      ]
+    },
+    {
+      "sentence": "except tuberculous Cellulitis and abscess of trunk Migraine with aura",
+      "entities": [
+        {
+          "text": "tuberculous cellulitis",
+          "type": "Disease_disorder",
+          "start": 7,
+          "end": 29
+        },
+        {
+          "text": "absces",
+          "type": "Sign_symptom",
+          "start": 34,
+          "end": 40
+        },
+        {
+          "text": "trunk",
+          "type": "Biological_structure",
+          "start": 45,
+          "end": 50
+        },
+        {
+          "text": "migraine",
+          "type": "Disease_disorder",
+          "start": 51,
+          "end": 59
+        },
+        {
+          "text": "aura",
+          "type": "Sign_symptom",
+          "start": 65,
+          "end": 69
+        }
+      ]
+    },
+    {
+      "sentence": "without mention of intractable migraine without mention of status migrainosus Personal history of surgery to heart and great vessels",
+      "entities": [
+        {
+          "text": "migraine",
+          "type": "Disease_disorder",
+          "start": 31,
+          "end": 39
+        },
+        {
+          "text": "migrainosus",
+          "type": "Disease_disorder",
+          "start": 66,
+          "end": 77
+        },
+        {
+          "text": "heart",
+          "type": "Biological_structure",
+          "start": 109,
+          "end": 114
+        }
+      ]
+    },
+    {
+      "sentence": "presenting hazards to health Street and highway accidents Asthma",
+      "entities": [
+        {
+          "text": "hazards",
+          "type": "Sign_symptom",
+          "start": 11,
+          "end": 18
+        },
+        {
+          "text": "highway accidents asthma",
+          "type": "Disease_disorder",
+          "start": 40,
+          "end": 64
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Other specified procedures as the cause of abnormal reaction of patient",
+      "entities": [
+        {
+          "text": "abnormal reaction",
+          "type": "Sign_symptom",
+          "start": 55,
+          "end": 72
+        }
+      ]
+    },
+    {
+      "sentence": "or of later complication",
+      "entities": [
+        {
+          "text": "complication",
+          "type": "Sign_symptom",
+          "start": 12,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "sentence": "without mention of misadventure at time of procedure Mechanical complication of nervous system device",
+      "entities": [
+        {
+          "text": "misadventure",
+          "type": "Sign_symptom",
+          "start": 19,
+          "end": 31
+        },
+        {
+          "text": "complication",
+          "type": "Sign_symptom",
+          "start": 64,
+          "end": 76
+        },
+        {
+          "text": "nervous system device",
+          "type": "Disease_disorder",
+          "start": 80,
+          "end": 101
+        }
+      ]
+    },
+    {
+      "sentence": "implant",
+      "entities": [
+        {
+          "text": "implant",
+          "type": "Therapeutic_procedure",
+          "start": 0,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "sentence": "and graft Injury to thoracic aorta Accidents occurring in residential institution Personal history of Methicillin resistant Staphylococcus aureus Other motor vehicle traffic accident involving collision with motor vehicle injuring driver of motor vehicle other than motorcycle",
+      "entities": [
+        {
+          "text": "thoracic aorta",
+          "type": "Biological_structure",
+          "start": 20,
+          "end": 34
+        },
+        {
+          "text": "staphylococcus aureus",
+          "type": "Disease_disorder",
+          "start": 124,
+          "end": 145
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Hypotension",
+      "entities": [
+        {
+          "text": "hypotension",
+          "type": "Sign_symptom",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Long-term (current) use of aspirin Tobacco use disorder Acute appendicitis with generalized peritonitis Diabetes mellitus without mention of complication",
+      "entities": [
+        {
+          "text": "aspirin",
+          "type": "Medication",
+          "start": 39,
+          "end": 46
+        },
+        {
+          "text": "disorder",
+          "type": "Disease_disorder",
+          "start": 59,
+          "end": 67
+        },
+        {
+          "text": "appendicitis",
+          "type": "Disease_disorder",
+          "start": 74,
+          "end": 86
+        },
+        {
+          "text": "peritonitis diabetes mellitus",
+          "type": "Disease_disorder",
+          "start": 104,
+          "end": 133
+        },
+        {
+          "text": "complication",
+          "type": "Sign_symptom",
+          "start": 153,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "sentence": "not stated as uncontrolled Pure hypercholesterolemia Unspecified essential hypertension Acquired absence of organ",
+      "entities": [
+        {
+          "text": "uncontrolled",
+          "type": "Sign_symptom",
+          "start": 14,
+          "end": 26
+        },
+        {
+          "text": "hypercholesterolemia",
+          "type": "Sign_symptom",
+          "start": 32,
+          "end": 52
+        },
+        {
+          "text": "hypertension",
+          "type": "Sign_symptom",
+          "start": 75,
+          "end": 87
+        },
+        {
+          "text": "organ",
+          "type": "Biological_structure",
+          "start": 108,
+          "end": 113
+        }
+      ]
+    },
+    {
+      "sentence": "genital organs Personal history of malignant melanoma of skin Unspecified acquired hypothyroidism",
+      "entities": [
+        {
+          "text": "genital organs",
+          "type": "Biological_structure",
+          "start": 0,
+          "end": 14
+        },
+        {
+          "text": "melanoma",
+          "type": "Disease_disorder",
+          "start": 45,
+          "end": 53
+        },
+        {
+          "text": "skin",
+          "type": "Biological_structure",
+          "start": 57,
+          "end": 61
+        },
+        {
+          "text": "hypothyroidism",
+          "type": "Disease_disorder",
+          "start": 83,
+          "end": 97
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Closed fracture of seven ribs Home accidents Accidental fall on or from other stairs or steps Unspecified essential hypertension Alcohol abuse",
+      "entities": [
+        {
+          "text": "fracture",
+          "type": "Sign_symptom",
+          "start": 7,
+          "end": 15
+        },
+        {
+          "text": "ribs",
+          "type": "Biological_structure",
+          "start": 25,
+          "end": 29
+        },
+        {
+          "text": "accidents",
+          "type": "Disease_disorder",
+          "start": 35,
+          "end": 44
+        },
+        {
+          "text": "abuse",
+          "type": "Disease_disorder",
+          "start": 137,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Traumatic pneumothorax without mention of open wound into thorax",
+      "entities": [
+        {
+          "text": "pneumothorax",
+          "type": "Disease_disorder",
+          "start": 22,
+          "end": 34
+        },
+        {
+          "text": "open wound",
+          "type": "Sign_symptom",
+          "start": 54,
+          "end": 64
+        },
+        {
+          "text": "thorax",
+          "type": "Biological_structure",
+          "start": 70,
+          "end": 76
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Presence of right artificial knee joint Body mass index (BMI) 40",
+      "entities": [
+        {
+          "text": "right artificial knee",
+          "type": "Biological_structure",
+          "start": 12,
+          "end": 33
+        },
+        {
+          "text": "joint",
+          "type": "Biological_structure",
+          "start": 34,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "sentence": "adult Cerebral aneurysm",
+      "entities": [
+        {
+          "text": "cerebral",
+          "type": "Biological_structure",
+          "start": 6,
+          "end": 14
+        },
+        {
+          "text": "aneurysm",
+          "type": "Disease_disorder",
+          "start": 15,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "sentence": "nonruptured Unilateral primary osteoarthritis",
+      "entities": [
+        {
+          "text": "osteoarthritis",
+          "type": "Disease_disorder",
+          "start": 31,
+          "end": 45
+        }
+      ]
+    },
+    {
+      "sentence": "left knee Hyperlipidemia",
+      "entities": [
+        {
+          "text": "left knee",
+          "type": "Biological_structure",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "text": "hyperlipidemia",
+          "type": "Disease_disorder",
+          "start": 10,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Barrett's esophagus without dysplasia Obesity",
+      "entities": [
+        {
+          "text": "barrett",
+          "type": "Biological_structure",
+          "start": 12,
+          "end": 19
+        },
+        {
+          "text": "esophagus",
+          "type": "Biological_structure",
+          "start": 22,
+          "end": 31
+        },
+        {
+          "text": "dysplasia obesity",
+          "type": "Sign_symptom",
+          "start": 40,
+          "end": 57
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Essential (primary) hypertension Long term (current) use of antithrombotics/antiplatelets Pure hypercholesterolemia Hyperlipidemia",
+      "entities": [
+        {
+          "text": "tension",
+          "type": "Sign_symptom",
+          "start": 37,
+          "end": 44
+        },
+        {
+          "text": "antithrombotics antiplatelets",
+          "type": "Medication",
+          "start": 72,
+          "end": 101
+        },
+        {
+          "text": "hypercholesterolemia hyperlipidemia",
+          "type": "Sign_symptom",
+          "start": 107,
+          "end": 142
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Atherosclerotic heart disease of native coronary artery without angina pectoris Nontraumatic subarachnoid hemorrhage from left posterior communicating artery Essential (primary) hypertension",
+      "entities": [
+        {
+          "text": "atherosclerotic heart disease",
+          "type": "Disease_disorder",
+          "start": 12,
+          "end": 41
+        },
+        {
+          "text": "native coronary artery",
+          "type": "Biological_structure",
+          "start": 45,
+          "end": 67
+        },
+        {
+          "text": "angina pectoris nontraumatic",
+          "type": "Sign_symptom",
+          "start": 76,
+          "end": 104
+        },
+        {
+          "text": "subarachnoid hemorrhage",
+          "type": "Sign_symptom",
+          "start": 105,
+          "end": 128
+        },
+        {
+          "text": "left posterior communicating",
+          "type": "Biological_structure",
+          "start": 134,
+          "end": 162
+        },
+        {
+          "text": "artery",
+          "type": "Biological_structure",
+          "start": 163,
+          "end": 169
+        },
+        {
+          "text": "hypertension",
+          "type": "Disease_disorder",
+          "start": 190,
+          "end": 202
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Metabolic encephalopathy Alzheimer's disease Dementia in conditions classified elsewhere with behavioral disturbance Osteoarthrosis",
+      "entities": [
+        {
+          "text": "metabolic encephalopathy alzheimer",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 34
+        },
+        {
+          "text": "disease dementia",
+          "type": "Disease_disorder",
+          "start": 37,
+          "end": 53
+        },
+        {
+          "text": "behavioral disturbance",
+          "type": "Sign_symptom",
+          "start": 94,
+          "end": 116
+        },
+        {
+          "text": "osteoarthrosis",
+          "type": "Disease_disorder",
+          "start": 117,
+          "end": 131
+        }
+      ]
+    },
+    {
+      "sentence": "site unspecified Hypoxemia Abnormal coagulation profile Unspecified protein-calorie malnutrition Late effects of cerebrovascular disease",
+      "entities": [
+        {
+          "text": "hypoxemia",
+          "type": "Sign_symptom",
+          "start": 17,
+          "end": 26
+        },
+        {
+          "text": "malnutrition",
+          "type": "Sign_symptom",
+          "start": 84,
+          "end": 96
+        },
+        {
+          "text": "cerebrovascular disease",
+          "type": "Disease_disorder",
+          "start": 113,
+          "end": 136
+        }
+      ]
+    },
+    {
+      "sentence": "hemiplegia affecting unspecified side Hyperosmolality and/or hypernatremia Pneumonia",
+      "entities": [
+        {
+          "text": "hemiplegia",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "text": "hyperosmolality",
+          "type": "Sign_symptom",
+          "start": 38,
+          "end": 53
+        },
+        {
+          "text": "hypernatremia",
+          "type": "Sign_symptom",
+          "start": 61,
+          "end": 74
+        },
+        {
+          "text": "pneumonia",
+          "type": "Disease_disorder",
+          "start": 75,
+          "end": 84
+        }
+      ]
+    },
+    {
+      "sentence": "organism unspecified Peripheral vascular disease",
+      "entities": [
+        {
+          "text": "organism",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "text": "peripheral vascular disease",
+          "type": "Disease_disorder",
+          "start": 21,
+          "end": 48
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Depressive disorder",
+      "entities": [
+        {
+          "text": "depressive disorder",
+          "type": "Disease_disorder",
+          "start": 12,
+          "end": 31
+        }
+      ]
+    },
+    {
+      "sentence": "not elsewhere classified Loss of weight Hypopotassemia Unspecified essential hypertension Diabetes mellitus without mention of complication",
+      "entities": [
+        {
+          "text": "loss",
+          "type": "Sign_symptom",
+          "start": 25,
+          "end": 29
+        },
+        {
+          "text": "weight hypopotassemia",
+          "type": "Sign_symptom",
+          "start": 33,
+          "end": 54
+        },
+        {
+          "text": "hypertension diabetes mellitus",
+          "type": "Disease_disorder",
+          "start": 77,
+          "end": 107
+        },
+        {
+          "text": "complication",
+          "type": "Sign_symptom",
+          "start": 127,
+          "end": 139
+        }
+      ]
+    },
+    {
+      "sentence": "uncontrolled Pernicious anemia Urinary tract infection",
+      "entities": [
+        {
+          "text": "anemia",
+          "type": "Sign_symptom",
+          "start": 24,
+          "end": 30
+        },
+        {
+          "text": "urinary tract",
+          "type": "Biological_structure",
+          "start": 31,
+          "end": 44
+        },
+        {
+          "text": "infection",
+          "type": "Disease_disorder",
+          "start": 45,
+          "end": 54
+        }
+      ]
+    },
+    {
+      "sentence": "site not specified Acidosis Procedure not carried out for other reasons Coronary atherosclerosis of native coronary artery",
+      "entities": [
+        {
+          "text": "acidosis",
+          "type": "Therapeutic_procedure",
+          "start": 19,
+          "end": 27
+        },
+        {
+          "text": "corona",
+          "type": "Biological_structure",
+          "start": 72,
+          "end": 78
+        },
+        {
+          "text": "atherosclerosis",
+          "type": "Disease_disorder",
+          "start": 81,
+          "end": 96
+        },
+        {
+          "text": "coronary artery",
+          "type": "Biological_structure",
+          "start": 107,
+          "end": 122
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Dehydration Atelectasis Acute kidney failure",
+      "entities": [
+        {
+          "text": "dehydration",
+          "type": "Therapeutic_procedure",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "text": "atelectasis",
+          "type": "Disease_disorder",
+          "start": 12,
+          "end": 23
+        },
+        {
+          "text": "kidney failure",
+          "type": "Disease_disorder",
+          "start": 30,
+          "end": 44
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Discoid lupus erythematosus Essential (primary) hypertension Palpitations Personal history of (healed) traumatic fracture Other hypotension Tachycardia",
+      "entities": [
+        {
+          "text": "discoid lupus erythematosus",
+          "type": "Sign_symptom",
+          "start": 12,
+          "end": 39
+        },
+        {
+          "text": "palpitations",
+          "type": "Sign_symptom",
+          "start": 73,
+          "end": 85
+        },
+        {
+          "text": "hypotension tachycardia",
+          "type": "Sign_symptom",
+          "start": 140,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Hyperlipidemia",
+      "entities": [
+        {
+          "text": "hyperlipidemia",
+          "type": "Disease_disorder",
+          "start": 12,
+          "end": 26
+        }
+      ]
+    },
+    {
+      "sentence": "unspecified Hypo-osmolality and hyponatremia Personal history of nicotine dependence Other forms of acute pericarditis Pleural effusion",
+      "entities": [
+        {
+          "text": "hypo osmolality",
+          "type": "Sign_symptom",
+          "start": 12,
+          "end": 27
+        },
+        {
+          "text": "pericarditis pleural effusion",
+          "type": "Disease_disorder",
+          "start": 106,
+          "end": 135
+        }
+      ]
+    },
+    {
+      "sentence": "nutritional and metabolic disease",
+      "entities": [
+        {
+          "text": "nutritional",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "text": "metabolic disease",
+          "type": "Disease_disorder",
+          "start": 16,
+          "end": 33
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "sentence": "Embolism and thrombosis of other specified artery Accidental puncture or laceration during a procedure",
+      "entities": [
+        {
+          "text": "embolism",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "text": "thrombosis",
+          "type": "Disease_disorder",
+          "start": 13,
+          "end": 23
+        }
+      ]
+    },
+    {
+      "sentence": "not elsewhere classified Accidental cut",
+      "entities": [
+        {
+          "text": "cut",
+          "type": "Therapeutic_procedure",
+          "start": 36,
+          "end": 39
+        }
+      ]
+    },
+    {
+      "sentence": "puncture",
+      "entities": [
+        {
+          "text": "puncture",
+          "type": "Biological_structure",
+          "start": 0,
+          "end": 8
+        }
+      ]
+    },
+    {
+      "sentence": "perforation or hemorrhage during surgical operation Personal history of malignant neoplasm of other gastrointestinal tract Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes Personal history of malignant neoplasm of other parts of uterus Tobacco use disorder",
+      "entities": [
+        {
+          "text": "perforation",
+          "type": "Disease_disorder",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "text": "hemorrhage",
+          "type": "Sign_symptom",
+          "start": 15,
+          "end": 25
+        },
+        {
+          "text": "surgical operation",
+          "type": "Therapeutic_procedure",
+          "start": 33,
+          "end": 51
+        },
+        {
+          "text": "neoplasm",
+          "type": "Sign_symptom",
+          "start": 82,
+          "end": 90
+        },
+        {
+          "text": "gastrointestinal tract",
+          "type": "Biological_structure",
+          "start": 100,
+          "end": 122
+        },
+        {
+          "text": "neoplasm",
+          "type": "Sign_symptom",
+          "start": 159,
+          "end": 167
+        },
+        {
+          "text": "intra abdominal lymph",
+          "type": "Biological_structure",
+          "start": 171,
+          "end": 192
+        },
+        {
+          "text": "nodes",
+          "type": "Biological_structure",
+          "start": 193,
+          "end": 198
+        },
+        {
+          "text": "neoplasm",
+          "type": "Sign_symptom",
+          "start": 229,
+          "end": 237
+        },
+        {
+          "text": "uterus",
+          "type": "Biological_structure",
+          "start": 256,
+          "end": 262
+        }
+      ]
+    }
+  ]
+]

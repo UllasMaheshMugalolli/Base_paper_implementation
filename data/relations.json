@@ -1,0 +1,32 @@
+[
+  {
+    "head": "essential hypertension compression",
+    "relation": "associated_with",
+    "tail": "brain intracranial"
+  },
+  {
+    "head": "inhalation",
+    "relation": "causes",
+    "tail": "respiratory failure pneumonitis"
+  },
+  {
+    "head": "complication",
+    "relation": "associated_with",
+    "tail": "nervous system device"
+  },
+  {
+    "head": "melanoma",
+    "relation": "associated_with",
+    "tail": "skin"
+  },
+  {
+    "head": "atherosclerotic heart disease",
+    "relation": "associated_with",
+    "tail": "native coronary artery"
+  },
+  {
+    "head": "loss",
+    "relation": "associated_with",
+    "tail": "weight hypopotassemia"
+  }
+]
